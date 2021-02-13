@@ -46,3 +46,4 @@ class State {
         return this.actors.find(a => a.type == "players");
     }
 }
+
